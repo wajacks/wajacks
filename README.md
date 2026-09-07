@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-# Hi there, I'm [Chriss] 👋
-  nickname [wajacks]
+# Hi there, I'm Chriss 👋
+  nickname --> wajacks
 
-- 🔭 I’m currently working on **[WhatsApp Fun Bot]**
-- 🌱 I’m currently learning **[JavaScript]**
+- 🔭 I’m currently working on **WhatsApp Fun Bot**
+- 🌱 I’m currently learning JavaScript
+
+- Institution :```🎓 BSIT @ TUM```
+-   ```🚀 Building cool stuff```
 
 ---
 
@@ -31,15 +34,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wajacks&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajacks&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254111659469)
+<a href="https://wa.me/254111659469?text=Hi%20Chriss..." target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="60" alt="whatsapp logo" />
+</a>
