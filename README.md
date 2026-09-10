@@ -30,7 +30,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project One](https://github.com/wajacks/WhatsApp-Chaos-Bot)** | WhatsApp bot equipped with cool features, Mainly for Gaming having fun with friends in group chats to never get bored. Games include competitive ones like, Wordle(a guessing word game), Wordchain(making out words from last letter of previous one) and many more to come. | Purely JS, using WhatsApp Web JS|
+| **[Chaos-Bot](https://github.com/wajacks/WhatsApp-Chaos-Bot)** | WhatsApp bot equipped with cool features, Mainly for Gaming having fun with friends in group chats to never get bored. Games include competitive ones like, Wordle(a guessing word game), Wordchain(making out words from last letter of previous one) and many more to come. | Purely JS, using WhatsApp Web JS|
 
 ---
 
